@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+opensooq_debug.html
+opensooq_debug.png
+.vscode/
+.idea/
+discover.py
+inspect_html.py
+inspect2.py
